@@ -9,7 +9,6 @@
     "type": "git",
     "url": "https://github.com/lewislbr/keizaal.git"
   },
-  "preview": true,
   "engines": {
     "vscode": "^1.39.0"
   },
@@ -29,7 +28,7 @@
       {
         "label": "Keizaal",
         "uiTheme": "vs-dark",
-        "path": "./themes/Keizaal-color-theme.json"
+        "path": "./themes/keizaal-color-theme.json"
       }
     ]
   }

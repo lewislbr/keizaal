@@ -18,14 +18,14 @@ Other languages have syntax highlighting too, but might not be semantic.
 
 ## Installation
 
-1. Open the VSCode's **Extensions** sidebar panel or go to `View > Extensions`.
+1. Open the VSCode's **Extensions** sidebar panel or go to **View** > **Extensions**.
 2. Search for `keizaal` and select it.
 3. Click **Install**.
 
 ## Usage
 
-1. Open VSCode's Preferences.
-2. Select `Color Theme`.
+1. Open VSCode's **Preferences**.
+2. Go to **Color Theme**.
 3. Select `Keizaal`.
 
 ## Feedback
