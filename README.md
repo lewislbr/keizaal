@@ -4,6 +4,12 @@
 
 Dark theme inspired by the cold Skyrim colors.
 
+![TypeScript](images/typescript.png)
+
+![React](images/react.png)
+
+![CSS](images/css.png)
+
 ## Support
 
 - C#

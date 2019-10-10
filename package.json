@@ -3,6 +3,7 @@
   "displayName": "Keizaal",
   "publisher": "lewislbr",
   "description": "A theme inspired by the cold Skyrim colors.",
+  "icon": "images/riverwood.png",
   "license": "MIT",
   "version": "1.0.0",
   "repository": {
