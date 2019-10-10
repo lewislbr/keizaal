@@ -1,0 +1,36 @@
+{
+  "name": "keizaal",
+  "displayName": "Keizaal",
+  "publisher": "lewislbr",
+  "description": "A theme inspired by the cold Skyrim colors.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lewislbr/keizaal.git"
+  },
+  "preview": true,
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "dark theme",
+    "skyrim",
+    "cold",
+    "nord"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Keizaal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Keizaal-color-theme.json"
+      }
+    ]
+  }
+}
