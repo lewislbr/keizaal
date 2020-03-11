@@ -4,7 +4,7 @@
 
 Dark theme inspired by the cold Skyrim colors.
 
-![TypeScript](images/typescript.png)
+![JavaScript](images/javascript.png)
 
 ![React](images/react.png)
 

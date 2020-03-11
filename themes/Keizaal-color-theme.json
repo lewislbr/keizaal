@@ -91,7 +91,7 @@
       "name": "Number",
       "scope": "constant.numeric",
       "settings": {
-        "foreground": "#F2D674"
+        "foreground": "#C0D9D4"
       }
     },
     {
@@ -112,7 +112,14 @@
       "name": "Function call",
       "scope": "entity.name.function, support.function",
       "settings": {
-        "foreground": "#F2D674"
+        "foreground": "#eed785"
+      }
+    },
+    {
+      "name": "Variable",
+      "scope": "variable, parameter",
+      "settings": {
+        "foreground": "#a9c2df"
       }
     },
     {
@@ -171,14 +178,14 @@
       "name": "Class method",
       "scope": "meta.definition.method entity.name.function",
       "settings": {
-        "foreground": "#9CA49C"
+        "foreground": "#eed785"
       }
     },
     {
       "name": "Function definition",
       "scope": "meta.function entity.name.function",
       "settings": {
-        "foreground": "#9CA49C"
+        "foreground": "#eed785"
       }
     },
     {
@@ -255,7 +262,7 @@
       "name": "HTML tag attribute",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#F2D674"
+        "foreground": "#a5aac4"
       }
     },
     {
