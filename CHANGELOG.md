@@ -2,6 +2,10 @@
 
 All notable changes to the "keizaal" extension will be documented in this file.
 
+## 1.2.1 - 12 Feb 2021
+
+- Update theme, making the background lighter.
+
 ## 1.1.1 - 11 Mar 2019
 
 - Remove duplicate definition.

@@ -2,18 +2,17 @@
 
 ## Description
 
-Dark theme inspired by the cold Skyrim colors.
+Dark theme inspired by the cold Skyrim colors at night.
 
-![JavaScript](images/javascript.png)
+![Go](images/go.png)
 
-![React](images/react.png)
-
-![CSS](images/css.png)
+![TypeScript](images/ts.png)
 
 ## Support
 
 - C#
 - CSS
+- Go
 - HTML
 - Java
 - JavaScript
